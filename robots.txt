@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://porthuronplumbingco.com/sitemap.xml
